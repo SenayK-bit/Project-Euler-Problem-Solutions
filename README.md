@@ -1,16 +1,9 @@
-Project Euler Solutions
+# Project Euler Solutions
 
-This repository contains my solutions to Project Euler problems with detailed write-ups
-documenting my problem-solving process.
+This repository contains my solutions to Project Euler problems. Files are organized into folders (each folder mentions the problem number and title), and each folder contains the problem solution (written in Python) along with a README explaining the strategies, insights, and thought process behind the solution.
 
-Each folder includes:
-- A solution
-- A README explaining strategies, failed attempts, and final insights
+The goals of this project are to improve my algorithmic thinking, practice my mathematical reasoning, and build a public portfolio. Any advice and/or recommendations are welcome at kalkaisenay@icloud.com.
 
-Goals:
-- Improve algorithmic thinking
-- Practice mathematical reasoning
-- Build a public problem-solving portfolio
 
 ## 📊 Solved Problems
 
