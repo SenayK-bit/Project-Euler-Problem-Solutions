@@ -1,0 +1,5 @@
+## Problem 4: Largest Palindrome Product
+
+The problem asks to find the largest palindrome made from the product of two 3 digit numbers. A palindrome is a number (or word) that's read the same both ways. For example, 909 is a palindrome as is 10101 and 'level'. There are two approaches one can take to solve this problem. One is to first find all the palindromes between 10,000 and 998,001 (the smallest and biggest products of two three digit numbers, namely 100*100 and 999*999) and then make a list out of the ones that can be expressed as the product of two three digit numbers. The biggest number on the list would be the largest palindrome that can be expressed as the product of two 3 digit numbers.The second method is much more efficient and is the one used in the algorithm. It involves identifying all numbers that can be expressed as the product of two 3 digit numbers, and then creating a list of palindromes out of them. The largest number on that list would be the largest palindrome that's a product of two 3 digit numbers.
+
+Run Time = 0.2 seconds
