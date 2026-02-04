@@ -7,12 +7,13 @@ The goals of this project are to improve my algorithmic thinking, practice my ma
 
 ## 📊 Solved Problems
 
-| Problem | Title | Status |
-|--------|-------|--------|
-| 1 | Multiples of 3 and 5 | ✅ |
-| 2 | Even Fibonacci Numbers | ✅ |
-| 3 | Largest Prime Factor | ✅ |
-| 4 | Largest Palindrome Product | ✅ |
-| 5 | Smallest Multiple | ✅ |
-| 6 | Sum Square Difference | ✅ |
-| 7 | 1001st Prime | ✅ |
+| Problem | Title                          | Status |
+|:-------:|--------------------------------|:------:|
+| 1       | Multiples of 3 and 5           | ✅     |
+| 2       | Even Fibonacci Numbers         | ✅     |
+| 3       | Largest Prime Factor           | ✅     |
+| 4       | Largest Palindrome Product     | ✅     |
+| 5       | Smallest Multiple              | ✅     |
+| 6       | Sum Square Difference          | ✅     |
+| 7       | 1001st Prime                   | ✅     |
+| 8       | Largest Product In a Series    | ✅     |
