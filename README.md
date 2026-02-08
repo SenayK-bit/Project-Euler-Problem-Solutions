@@ -17,3 +17,5 @@ The goals of this project are to improve my algorithmic thinking, practice my ma
 | 6       | Sum Square Difference          | ✅     |
 | 7       | 1001st Prime                   | ✅     |
 | 8       | Largest Product In a Series    | ✅     |
+| 9       | Special Pythagorean Triplet    | ✅     |
+| 10      | Summation of Primes            | ✅     |
