@@ -1,8 +1,11 @@
 # Changelog
 
+## 2026-02-08
+- Published solution to problem 10.
+
 ## 2026-02-04
 - Finished organizing the Project Euler Solutions repo.
-- Published problem 8 solution.
+- Published solution to problems 8 and 9.
 
 ## 2026-01-31
 - Added a README for the whole repository
