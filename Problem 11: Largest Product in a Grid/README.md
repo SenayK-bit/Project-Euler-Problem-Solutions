@@ -1,0 +1,5 @@
+## Problem 11: Largest Product in a Grid
+
+The problem provides a grid of integers and asks for the largest product that can be formed with 4 integers that lie along the same diagonal line. To solve this problem, the algorithm takes a brute force approach.
+
+The algorithm looks at a given number and identifies all the downward facing diagonals its a part of. The product of that number and the next three numbers along each diagonal is then calculated and compared the greatest product that's been found thus far. If the product of that number's diagonal is higher, it stores it for comparison with the next product that's calculated. Since the algorithm performs this process for all numbers, we know that it has looked at all products of 4 numbers that are along a diagonal to determine the greatest one.
