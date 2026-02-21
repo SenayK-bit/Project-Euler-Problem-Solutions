@@ -1,5 +1,8 @@
 # Changelog
 
+# 2026-02-21
+- Published solution to problem 12
+
 ## 2026-02-15
 - Published solution to problem 11. 
 
